@@ -1,5 +1,8 @@
 # Body-Mass-Index
-## Web application for calculating Body Mass Index, with tips. <br> Built in JavaScript, with HTML and CSS![1](https://github.com/MarryMN/Body-Mass-index/assets/139985541/0aab9840-9835-4a9e-8fec-6fbe9dda5516)
+## Web application for calculating Body Mass Index, with tips. <br> Built in JavaScript, with HTML and CSS!
+Try it! 
+https://body-mass-index-sigma.vercel.app/
+
 ![1](https://github.com/MarryMN/Body-Mass-index/assets/139985541/3d947805-bfc8-42f6-9ff3-1aab2d953eb5)
 ![2](https://github.com/MarryMN/Body-Mass-index/assets/139985541/cbe8b187-de67-40b4-8b08-b1d50b5ce792)
 ![3](https://github.com/MarryMN/Body-Mass-index/assets/139985541/b10f7c17-924f-4051-9beb-f57e3782390d)
